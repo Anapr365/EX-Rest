@@ -7,4 +7,4 @@ app.use((req, res, next) => {
     })
 });
 
-module.express = app
+module.exports = app
